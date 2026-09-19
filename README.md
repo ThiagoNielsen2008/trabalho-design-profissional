@@ -1,1 +1,0 @@
-# trabalho-design-profissional
