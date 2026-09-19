@@ -4,3 +4,105 @@
 
 - Arthur Costa de Paulo
 - Felipe Gonçales de Souza Moura
+
+## O que é Engenharia de Dados e qual sua importância?
+
+A Engenharia de Dados é uma área da Tecnologia da Informação responsável por construir e manter sistemas que coletam, organizam, transformam e disponibilizam dados para serem utilizados por empresas.
+
+Imagine um banco como o Itaú, uma empresa como a Amazon ou até uma rede de supermercados.
+
+Essas empresas geram milhões de informações diariamente:
+
+* Compras realizadas;
+* Transações financeiras;
+* Informações de clientes;
+* Estoques e vendas;
+* Acessos a aplicativos;
+* Dados de comportamento dos consumidores.
+
+Essas informações precisam ser organizadas e disponibilizadas para que outros sistemas e profissionais possam utilizá-las.
+
+É aí que entra o engenheiro de dados.
+
+## Como está o mercado de trabalho em Engenharia de Dados?
+
+Cenário brasileiro em 2026
+
+A Engenharia de Dados está inserida em um mercado que atende empresas de diversos setores, como bancos, seguradoras, varejo, consultorias, telecomunicações e tecnologia.
+
+Um dos levantamentos relevantes para compreender esse cenário é o State of Data Brazil 2025–2026, realizado pela comunidade Data Hackers em parceria com a Bain & Company.
+
+A pesquisa foi conduzida entre outubro e dezembro de 2025 e reúne informações de milhares de profissionais de dados brasileiros sobre carreira, remuneração, tecnologias e condições de trabalho. 
+
+Engenharia de Dados é uma carreira com possibilidades reais de crescimento, mas não é uma área em que basta concluir um curso e esperar que as vagas apareçam. A preparação prática tem um peso importante.
+
+## Como são as vagas de Engenharia de Dados?
+
+Um ponto importante: nem toda vaga relacionada a dados tem o título de Engenheiro de Dados.
+
+Existem diferentes cargos que podem servir como porta de entrada ou fazer parte da trajetória profissional.
+
+| Cargo                      | O que faz                                                            |
+| -------------------------- | -------------------------------------------------------------------- |
+| Estagiário de Dados        | Ajuda em consultas, organização e tratamento de dados.               |
+| Analista de Dados Júnior   | Analisa informações, cria consultas SQL e relatórios.                |
+| Analista de BI             | Desenvolve dashboards e indicadores para empresas.                   |
+| Engenheiro de Dados Júnior | Desenvolve e mantém pipelines e processos de dados.                  |
+| Engenheiro de Dados Pleno  | Desenvolve soluções mais complexas e administra fluxos de dados.     |
+| Engenheiro de Dados Sênior | Atua em arquitetura, desempenho, confiabilidade e decisões técnicas. |
+
+
+## Quais tecnologias as empresas exigem?
+
+Essa é uma das partes mais importantes da análise, porque mostra o que você precisaria estudar para se tornar competitivo.
+
+As vagas brasileiras de Engenharia de Dados frequentemente combinam linguagens de programação, bancos de dados, ferramentas de processamento e plataformas em nuvem. Uma vaga de Engenheiro de Dados Júnior da Digiage, por exemplo, lista SQL, Python, bancos relacionais, AWS, Azure, Spark e Databricks.
+
+## Quanto ganha um Engenheiro de Dados no Brasil?
+
+Essa costuma ser uma das maiores dúvidas de quem considera seguir carreira na área.
+
+A remuneração varia bastante conforme experiência, empresa, região, regime de contratação e complexidade do trabalho.
+
+Para dar uma referência, o Portal Salário, com dados do Novo CAGED, apresenta os seguintes números para o cargo de Engenheiro de Dados no Brasil:
+| Indicador      | Salário mensal |
+| -------------- | -------------: |
+| Piso informado |       R$ 5.004 |
+| Mediana        |      R$ 12.400 |
+| Média          |   R$ 14.434,79 |
+| Teto informado |   R$ 23.761,11 |
+
+## Quais são as dificuldades para conseguir a primeira vaga?
+
+Essa é uma parte que merece atenção especial.
+
+O mercado de Engenharia de Dados tem oportunidades, mas existe uma diferença entre a demanda por profissionais experientes e as oportunidades disponíveis para quem ainda não possui experiência profissional.
+
+As principais dificuldades são:
+
+1. Vagas que exigem experiência
+
+Mesmo algumas vagas Júnior podem pedir experiência com ferramentas que você ainda não teve oportunidade de utilizar profissionalmente.
+
+2. Exigência de várias tecnologias
+
+Uma vaga pode exigir SQL, Python, cloud, ferramentas de ETL e conhecimentos de arquitetura de dados.
+
+3. Concorrência nas vagas de entrada
+
+Você pode disputar uma oportunidade com candidatos que já possuem projetos, estágios ou experiência em outras funções de TI.
+
+4. Falta de experiência prática
+
+Saber explicar o que é um banco de dados é diferente de conseguir desenvolver um pipeline funcional, tratar erros e organizar um projeto.
+
+## Quais setores contratam engenharia de dados ?
+
+| Setor               | Como utiliza Engenharia de Dados                                      |
+| ------------------- | --------------------------------------------------------------------- |
+| Bancos e fintechs   | Transações, crédito, prevenção a fraudes e comportamento de clientes. |
+| Varejo e e-commerce | Vendas, estoque, logística e comportamento de consumidores.           |
+| Saúde               | Organização de dados de pacientes, exames e operações.                |
+| Telecomunicações    | Tráfego, utilização de serviços e informações de clientes.            |
+| Indústria           | Produção, sensores, manutenção e controle de qualidade.               |
+| Consultorias de TI  | Desenvolvimento e modernização de plataformas de dados para clientes. |
