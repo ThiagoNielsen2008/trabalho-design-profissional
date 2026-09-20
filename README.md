@@ -73,6 +73,64 @@ Como melhoria, pretendo utilizar a plataforma com maior frequência para compart
 Dessa forma, o LinkedIn poderá funcionar não apenas como um currículo digital, mas também como uma ferramenta para demonstrar minha evolução profissional e construir maior presença na área de tecnologia.
 
 ### 3. Instagram e outras redes profissionais
+
+Meu perfil no Instagram possui caráter predominantemente pessoal
+e atualmente não é utilizado como ferramenta de divulgação profissional.
+
+Não publico com frequência conteúdos relacionados à tecnologia
+ou Engenharia de Dados.
+
+Como possível melhoria, posso utilizar redes profissionais,
+principalmente LinkedIn e GitHub, para divulgar projetos,
+aprendizados e atividades desenvolvidas durante minha formação.
+
+Atualmente não possuo atividade relevante em plataformas como
+Medium, Dev.to ou Behance.
+
 ### 4. Plano de Carreira
+
+#### Curto prazo — 6 a 12 meses
+
+Meu objetivo no curto prazo é fortalecer minha base técnica,
+principalmente em Python, SQL, bancos de dados e Git.
+
+Também pretendo criar projetos voltados à manipulação e organização
+de dados para construir um portfólio no GitHub.
+
+Nesse período, pretendo buscar oportunidades de estágio ou posições
+de entrada relacionadas a dados e tecnologia.
+
+#### Médio prazo — 1 a 3 anos
+
+Pretendo conquistar experiência profissional na área de dados,
+atuando como estagiário, Analista de Dados, Desenvolvedor de Dados
+ou Engenheiro de Dados Júnior.
+
+Também pretendo desenvolver conhecimentos em ferramentas utilizadas
+em pipelines de dados, processamento de grandes volumes de informações
+e serviços em nuvem.
+
+#### Longo prazo — 3 a 5 anos ou mais
+
+Meu objetivo é consolidar minha carreira como Engenheiro de Dados,
+participando do desenvolvimento e manutenção de arquiteturas
+e pipelines de dados utilizados por organizações.
+
+Pretendo alcançar maior especialização técnica e assumir projetos
+de maior complexidade.
+
 ### 5. PDI — Plano de Desenvolvimento Individual
+
+### 5. PDI — Plano de Desenvolvimento Individual
+
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---|---|
+| Melhorar SQL | Estudar consultas, joins, subqueries e modelagem | 6 meses | Criar 2 projetos utilizando SQL |
+| Desenvolver Python | Praticar manipulação e tratamento de dados | 6 meses | Publicar 2 projetos no GitHub |
+| Aprender conceitos de ETL | Estudar extração, transformação e carga de dados | 8 meses | Criar um pipeline ETL simples |
+| Melhorar GitHub | Documentar e organizar projetos | 6 meses | Ter pelo menos 4 projetos bem documentados |
+| Melhorar LinkedIn | Atualizar headline e informações profissionais | 2 meses | Perfil completamente atualizado |
+| Conhecer Cloud | Estudar fundamentos de uma plataforma em nuvem | 12 meses | Desenvolver ao menos um projeto utilizando cloud |
+
 ### 6. Feedback dos colegas
+
