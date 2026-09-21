@@ -36,7 +36,7 @@ de dados.
 
 Atualmente, o perfil possui 0 seguidores.
 
-### 2. ### Análise do LinkedIn
+### 2. Análise do LinkedIn
 
 #### Cargo-alvo e área de atuação
 
